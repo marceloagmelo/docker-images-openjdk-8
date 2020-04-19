@@ -37,7 +37,7 @@ docker run --rm -ti openjdk-8:TAG_NAME shell
 
 ## Como criar uma imagem usando essa como FROM
 
-O exemplo abaixo cria uma aplicação usando marceloagmelo/openjdk-8.6:TAG_NAME como base.
+O exemplo abaixo cria uma aplicação usando marceloagmelo/openjdk-8:TAG_NAME como base.
 
 Dockerfile
 
